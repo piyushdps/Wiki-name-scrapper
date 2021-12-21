@@ -4,7 +4,7 @@ A project for Pepcoding Round 2
 
 ## Installation
 
-Use the package manager [npm](npmjs.com/) to install enter the command 
+Use the package manager [npm](https://npmjs.com/) to install enter the command 
 ```bash
 npm i 
 ```
